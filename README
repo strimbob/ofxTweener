@@ -12,5 +12,6 @@ functions:
 	- override or sequence mode
 	- bezier tweening
 	
-ofxTweener works with OF 0.06 and 0.07. It has been tested on OSX 10.6~7 and Windows as well. The included example is a Xcode 4 OF 0.07 project.
+ofxTweener works with OF 0.06 , 0.07 and 0.08. It has been tested on OSX 10.6~7,OSX 10.8.5 and Windows as well.
+The included example is a Xcode 4 OF 0.07 project.
 	
